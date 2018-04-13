@@ -14,7 +14,7 @@ class SayHello extends Component {
 
         console.log(this.state);
 
-        let messages = ["Kia-Ora lovely people!", "Namste", "BONJOUR",
+        let messages = ["Kia-Ora lovely people!", "Namaste", "BONJOUR",
             "HOLA",
             "HALO", "TAG", "CIAO", "OLA", "SALAM", "AHN-YOUNG-HA-SE-YO"];
 
