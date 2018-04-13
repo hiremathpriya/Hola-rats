@@ -15,7 +15,7 @@ class SayHello extends Component {
         console.log(this.state);
 
         let messages = ["Kia-Ora lovely Rat's!", "Namaste", "BONJOUR",
-            "HOLA",
+            "HOLA", "Happy-Birthday Harrison",
             "HALO", "TAG", "CIAO", "OLA", "SALAM", "AHN-YOUNG-HA-SE-YO"];
 
         let randomNumber = Math.floor(Math.random() * messages.length);
