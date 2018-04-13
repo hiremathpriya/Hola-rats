@@ -11,6 +11,6 @@ import registerServiceWorker from './registerServiceWorker';
 
 //ReactDOM.render(<App />, document.getElementById('root'));
 ReactDOM.render(<Showrats />, document.getElementById('showrats'));
-ReactDOM.render(<SayHello messages />, document.getElementById('root'));
+ReactDOM.render(<SayHello />, document.getElementById('root'));
 ReactDOM.render(<Footer  />, document.getElementById('footer'));
 registerServiceWorker(); 
